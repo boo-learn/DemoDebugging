@@ -8,6 +8,7 @@ dependencies = [
     "aiohttp>=3.14.1",
     "line-profiler>=5.0.2",
     "pyinstrument>=5.1.2",
+    "pympler>=1.1",
     "requests>=2.34.2",
     "snakeviz>=2.2.2",
 ]
